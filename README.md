@@ -125,3 +125,4 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ by <strong>Team Edith</strong> · HackIndia Spark 8
 </p>
+Contribution by Sughan
